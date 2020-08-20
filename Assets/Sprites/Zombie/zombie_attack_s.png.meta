@@ -1,0 +1,697 @@
+fileFormatVersion: 2
+guid: 39311969934d3b3469e6c0a7645fddc7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5027656248514409941
+    second: zombie_attack_s_0
+  - first:
+      213: -8194657222249922411
+    second: zombie_attack_s_1
+  - first:
+      213: -666648831415448915
+    second: zombie_attack_s_2
+  - first:
+      213: 4766071681853009890
+    second: zombie_attack_s_3
+  - first:
+      213: -2947855489880087288
+    second: zombie_attack_s_4
+  - first:
+      213: -2164316679538189274
+    second: zombie_attack_s_5
+  - first:
+      213: 6912534264044824955
+    second: zombie_attack_s_6
+  - first:
+      213: -3288266634156453585
+    second: zombie_attack_s_7
+  - first:
+      213: 5435622433827457125
+    second: zombie_attack_s_8
+  - first:
+      213: 3841411380074756257
+    second: zombie_attack_s_9
+  - first:
+      213: -2081346943329958598
+    second: zombie_attack_s_10
+  - first:
+      213: -3788051524852987563
+    second: zombie_attack_s_11
+  - first:
+      213: -2361760833055668746
+    second: zombie_attack_s_12
+  - first:
+      213: 7677125983890714183
+    second: zombie_attack_s_13
+  - first:
+      213: -8041668256009870620
+    second: zombie_attack_s_14
+  - first:
+      213: -8856049129482063765
+    second: zombie_attack_s_15
+  - first:
+      213: 4435094295875403243
+    second: zombie_attack_s_16
+  - first:
+      213: 503173657233867253
+    second: zombie_attack_s_17
+  - first:
+      213: 8281509348857455519
+    second: zombie_attack_s_18
+  - first:
+      213: -3224745777316712180
+    second: zombie_attack_s_19
+  - first:
+      213: -2858942239031944555
+    second: zombie_attack_s_20
+  - first:
+      213: 3039744033666154589
+    second: zombie_attack_s_21
+  - first:
+      213: -1669207500266634274
+    second: zombie_attack_s_22
+  - first:
+      213: -2296441897210138277
+    second: zombie_attack_s_23
+  - first:
+      213: -2657041797644395106
+    second: zombie_attack_s_24
+  - first:
+      213: -4251338989499972949
+    second: zombie_attack_s_25
+  - first:
+      213: 1433815462804531133
+    second: zombie_attack_s_26
+  - first:
+      213: 3642783014457121903
+    second: zombie_attack_s_27
+  - first:
+      213: -6219069223813832113
+    second: zombie_attack_s_28
+  - first:
+      213: -4655300473077189102
+    second: zombie_attack_s_29
+  - first:
+      213: 7630852652122278218
+    second: zombie_attack_s_30
+  - first:
+      213: 6227333831497484218
+    second: zombie_attack_s_31
+  - first:
+      213: 6184095621923197433
+    second: zombie_attack_s_32
+  - first:
+      213: -4573712026331441863
+    second: zombie_attack_s_33
+  - first:
+      213: -2713050155405114935
+    second: zombie_attack_s_34
+  - first:
+      213: -638970061707745779
+    second: zombie_attack_s_35
+  - first:
+      213: 3262046056471104931
+    second: zombie_attack_s_36
+  - first:
+      213: 1180467982818080609
+    second: zombie_attack_s_37
+  - first:
+      213: 2154148184473204761
+    second: zombie_attack_s_38
+  - first:
+      213: 7979662397764592730
+    second: zombie_attack_s_39
+  - first:
+      213: -7374945965308644704
+    second: zombie_attack_s_40
+  - first:
+      213: -1420276942863104068
+    second: zombie_attack_s_41
+  - first:
+      213: -6262921681704020054
+    second: zombie_attack_s_42
+  - first:
+      213: -4059905189015844696
+    second: zombie_attack_s_43
+  - first:
+      213: -2894531789360832200
+    second: zombie_attack_s_44
+  - first:
+      213: 4077062546136703947
+    second: zombie_attack_s_45
+  - first:
+      213: 5073445783868835748
+    second: zombie_attack_s_46
+  - first:
+      213: -6671981966318737043
+    second: zombie_attack_s_47
+  - first:
+      213: -8887361155987464499
+    second: zombie_attack_s_48
+  - first:
+      213: -887897196453185851
+    second: zombie_attack_s_49
+  - first:
+      213: 2208070130345414672
+    second: zombie_attack_s_50
+  - first:
+      213: 2816382407025693724
+    second: zombie_attack_s_51
+  - first:
+      213: -8469055361972156760
+    second: zombie_attack_s_52
+  - first:
+      213: -3938737644388166547
+    second: zombie_attack_s_53
+  - first:
+      213: -4149368982512954322
+    second: zombie_attack_s_54
+  - first:
+      213: 6461920103953097357
+    second: zombie_attack_s_55
+  - first:
+      213: 8955020689950875778
+    second: zombie_attack_s_56
+  - first:
+      213: 2248950854258232449
+    second: zombie_attack_s_57
+  - first:
+      213: -1708491263623791171
+    second: zombie_attack_s_58
+  - first:
+      213: -1605829506881704466
+    second: zombie_attack_s_59
+  - first:
+      213: -2488100505359040942
+    second: zombie_attack_s_60
+  - first:
+      213: -4386114520731202269
+    second: zombie_attack_s_61
+  - first:
+      213: -1821582681031866196
+    second: zombie_attack_s_62
+  - first:
+      213: -6543665753000763744
+    second: zombie_attack_s_63
+  - first:
+      213: 2862693008009484596
+    second: zombie_attack_s_64
+  - first:
+      213: 2767175932154457107
+    second: zombie_attack_s_65
+  - first:
+      213: -2625591101976989750
+    second: zombie_attack_s_66
+  - first:
+      213: -1364979163715840332
+    second: zombie_attack_s_67
+  - first:
+      213: -1018352970149783968
+    second: zombie_attack_s_68
+  - first:
+      213: -7295597134679221593
+    second: zombie_attack_s_69
+  - first:
+      213: -8056262965905238181
+    second: zombie_attack_s_70
+  - first:
+      213: -5974711468911604297
+    second: zombie_attack_s_71
+  - first:
+      213: 991851245440830571
+    second: zombie_attack_s_72
+  - first:
+      213: -2193302117864272314
+    second: zombie_attack_s_73
+  - first:
+      213: 2164085161703752958
+    second: zombie_attack_s_74
+  - first:
+      213: -8880064452146425355
+    second: zombie_attack_s_75
+  - first:
+      213: -1259889003733485187
+    second: zombie_attack_s_76
+  - first:
+      213: -1543874540901687896
+    second: zombie_attack_s_77
+  - first:
+      213: -2760855861493573385
+    second: zombie_attack_s_78
+  - first:
+      213: -6334741868023808836
+    second: zombie_attack_s_79
+  - first:
+      213: -6542841825012853042
+    second: zombie_attack_s_80
+  - first:
+      213: 2078044773485679352
+    second: zombie_attack_s_81
+  - first:
+      213: 4427837313467211519
+    second: zombie_attack_s_82
+  - first:
+      213: -1562826555892793710
+    second: zombie_attack_s_83
+  - first:
+      213: -4717068441972363517
+    second: zombie_attack_s_84
+  - first:
+      213: -5735440640718014795
+    second: zombie_attack_s_85
+  - first:
+      213: -3061722178656062586
+    second: zombie_attack_s_86
+  - first:
+      213: -3215360231517111507
+    second: zombie_attack_s_87
+  - first:
+      213: 409284421926921657
+    second: zombie_attack_s_88
+  - first:
+      213: 3968309966115876854
+    second: zombie_attack_s_89
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zombie_attack_s_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 260
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8309ed47a2a7a754ca0b98fa7674e8f7
+      internalID: -5027656248514409941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_attack_s_1
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 280
+        width: 260
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be0f8a5ec12f354c88d079234ffeae4
+      internalID: -8194657222249922411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_attack_s_2
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 280
+        width: 260
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beae48c05fda4e441a48e03203f4b7a9
+      internalID: -666648831415448915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_attack_s_3
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 280
+        width: 260
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c381184b55ac747b8dcaf4f9a87420
+      internalID: 4766071681853009890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_attack_s_4
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 280
+        width: 260
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1cec02c129f1e4a8cd179f5040756b
+      internalID: -2947855489880087288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_attack_s_5
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 280
+        width: 260
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807676df2444a684eb24bf9051e4000b
+      internalID: -2164316679538189274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_attack_s_6
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 280
+        width: 260
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6a2a77d9b749747b9ce73ee5a89837
+      internalID: 6912534264044824955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_attack_s_7
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 280
+        width: 260
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d0f7ef37b5f0e429eddfcff905ecaa
+      internalID: -3288266634156453585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_attack_s_8
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 280
+        width: 260
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3bcf38a9a222549a726d4fbe9534d1
+      internalID: 5435622433827457125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_attack_s_9
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 280
+        width: 260
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6a75e22fba6a4499e8c5e4bf640b48
+      internalID: 3841411380074756257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_attack_s_10
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 280
+        width: 260
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539ff914233c11a48a4acf63aeca34c1
+      internalID: -2081346943329958598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_attack_s_11
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 280
+        width: 260
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f10ca4ba393318428a5cf63f50c3c3a
+      internalID: -3788051524852987563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_attack_s_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 260
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4604904d35a7ce54cb79b0acaa6041ea
+      internalID: -2361760833055668746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_attack_s_13
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 0
+        width: 260
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9b2dee958f37d478b21066a7b20846
+      internalID: 7677125983890714183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_attack_s_14
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 0
+        width: 260
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4152cd13f2b872a428166f24834d1b11
+      internalID: -8041668256009870620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f7518cddc06c11947ba42fa7da01c586
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

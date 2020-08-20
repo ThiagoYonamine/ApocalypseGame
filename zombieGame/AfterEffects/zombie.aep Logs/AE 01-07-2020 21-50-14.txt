@@ -1,0 +1,17 @@
+Adobe After Effects v15.0 Windows 64 render log for project “zombie.aep”
+
+Rendering started on 01/07/2020 at 21:50:14
+
+  01/07/2020 21:50:14: Starting composition “zombie_walk”.
+
+  Output To: C:\zombieGame\AfterEffects\Zombie\zombie_attack\zombie_walk\zombie_walk_[#####].png    01/07/2020 21:50:15: Finished composition “zombie_walk”.
+
+
+  01/07/2020 21:50:15: Starting composition “zombie_hit”.
+
+  Output To: C:\zombieGame\AfterEffects\Zombie\zombie_hit\zombie_hit_[#####].png    01/07/2020 21:50:16: Finished composition “zombie_hit”.
+
+
+  Total Time Elapsed: 2 Seconds
+Log closed on 01/07/2020 at 21:50:16
+

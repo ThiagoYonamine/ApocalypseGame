@@ -1,0 +1,17 @@
+Adobe After Effects v15.0 Windows 64 render log for project “Girl.aep”
+
+Rendering started on 13/07/2020 at 23:45:20
+
+  13/07/2020 23:45:20: Starting composition “Girl_Hit”.
+
+  Output To: C:\zombieGame\AfterEffects\Girl\Girl_Hit\Girl_Hit_[#####].png  After Effects error: Can't overwite file “C:\zombieGame\AfterEffects\Girl\Girl_Hit\Girl_Hit_00000.png”. (3  ::  3)  13/07/2020 23:45:20: Finished composition “Girl_Hit”.
+
+
+  13/07/2020 23:45:20: Starting composition “Girl_Attack”.
+
+  Output To: C:\zombieGame\AfterEffects\Girl\Girl_Attack\Girl_Attack_[#####].pngAfter Effects error: Can't overwite file “C:\zombieGame\AfterEffects\Girl\Girl_Attack\Girl_Attack_00000.png”. (3  ::  3)    13/07/2020 23:45:20: Finished composition “Girl_Attack”.
+
+
+  Total Time Elapsed: 0 Seconds
+Log closed on 13/07/2020 at 23:45:20
+
